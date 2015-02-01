@@ -1,5 +1,5 @@
 # hello-world
 
-Hello I am a Temple Student trying to gain open source experience.
+Only here so i dont get fined
 
 none
